@@ -1,0 +1,81 @@
+.main-wrapper {
+	border: 2px solid green;
+	padding: 10px;
+	height: 500px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.head-wrapper {
+	border: 1px solid red;
+	padding: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.body-wrapper {
+	border: 1px solid red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.image-wrapper {
+	border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 6px;
+}
+
+.service-wrapper {
+	border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 6px;
+    height: 130px;
+}
+
+.service-one {
+	border: 1px solid black;
+	height: 100px;
+	width: 140px;
+	padding-left: 9px;
+	float: left;
+	margin-right: 1px;
+	margin-top: 10px;
+}
+
+.service-two {
+	border: 1px solid black;
+	height: 100px;
+	width: 140px;
+	padding-left: 9px;
+	float: left;
+	margin-right: 1px;
+	margin-top: 10px;
+}
+
+.service-three {
+	border: 1px solid black;
+	height: 100px;
+	width: 140px;
+	padding-left: 9px;
+	float: left;
+	margin-right: 1px;
+	margin-top: 10px;
+}
+
+.comment-wrapper {
+	border: 1px solid red;
+    padding: 10px;
+}
+
+.footer-wrapper {
+	border: 1px solid red;
+	padding: 10px;
+	height: 133px;
+}
+
+.form-wrapper {
+	border: 1px solid black;
+	padding: 10px;
+	height: 110px;
+}
